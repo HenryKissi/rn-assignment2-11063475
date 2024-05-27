@@ -59,7 +59,7 @@ npm run reset-project
     });
     ```
 
-    Replace `YourName` with your actual name.
+    
 
 ## Running the Project
 
